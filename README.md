@@ -5,3 +5,6 @@
 Every folder will include theory of algorithms in paper and how to do it by concrete code.
 
 This repo will be the base of the many projects using the latest ai, and it could be as simple as possible.
+
+## SkyReels-A1
+[SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers](https://arxiv.org/pdf/2502.10841 "点击查看论文")
